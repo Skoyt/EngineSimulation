@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  Engine.cpp
+  EngineSimulations.cpp
+c:\users\asus\source\repos\enginesimulations\enginesimulations\stand.h(37): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\asus\source\repos\enginesimulations\enginesimulations\stand.h(30): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\asus\source\repos\enginesimulations\enginesimulations\enginesimulations.cpp(14): note: выполняется компиляция ссылки на экземпляр шаблон функции "int standArr::Stand<engine::IntComEngine>::LaunchEngine(void)"
+  c:\users\asus\source\repos\enginesimulations\enginesimulations\enginesimulations.cpp(13): note: выполняется компиляция ссылки на экземпляр шаблон класс "standArr::Stand<engine::IntComEngine>"
+  Interaction.cpp
+c:\users\asus\source\repos\enginesimulations\enginesimulations\interaction.cpp(12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  EngineSimulations.vcxproj -> C:\Users\Asus\source\repos\EngineSimulations\Debug\EngineSimulations.exe
